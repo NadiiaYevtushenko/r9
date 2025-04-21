@@ -69,4 +69,4 @@ You can deploy the app to platforms like **Vercel**, **Netlify**, or any static 
 ## 👉 Live Demo
 
 **Live Deployment:**  
-[Vercel Project]( )
+[Vercel Project](https://r9-nadiias-projects-dc6d9292.vercel.app/)
